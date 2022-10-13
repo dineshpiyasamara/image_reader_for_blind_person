@@ -8,4 +8,4 @@ image reader using image captioning and text extraction. django used for build w
 ![alt text](https://github.com/dineshpiyasamara/image_reader_for_blind_person/blob/master/implementation.JPG)
 
 ## Project Demo
-![alt text](https://www.youtube.com/shorts/sjkEqSupMC8)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sjkEqSupMC8/0.jpg)](https://www.youtube.com/watch?v=sjkEqSupMC8)
